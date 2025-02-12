@@ -5,7 +5,8 @@ Kullanılan Araçlar
 Power BI
 
 Analiz Edilen Tablolar ve Görselleştirmeler
-(Proje Screenshot) - 
+
+(Proje Screenshot) - [https://github.com/Esra3425/PowerBI_Project3/blob/main/Project3.png?raw=true]
 
 Filled Map - First Segment and Average of Units Sold by Country and Product
 Açıklama: İlk segmentin ve satılan ürün birimlerinin, ülke ve ürün bazında ortalamalarını harita üzerinde gösterir. Bu görselleştirme, coğrafi dağılımı analiz etmek ve ürün satışlarını farklı ülkelerde karşılaştırmak için kullanılır.
